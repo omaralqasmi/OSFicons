@@ -1,0 +1,17 @@
+{
+  "images" : [
+    {
+      "filename" : "sf_hi_slider.horizontal.2.square.badge.arrow.down.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "lossless",
+    "preserves-vector-representation" : true,
+    "template-rendering-intent" : "template"
+  }
+}
